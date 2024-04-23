@@ -1,0 +1,584 @@
+# Copyright (C) 2023 smartlog
+# This file is distributed under the same license as the smartlog package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Smartlog 1.0.2\n"
+"POT-Creation-Date: 2023-12-06 12:31+0545\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Theme Canary<themecanary@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 3.4.1\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: inc/admin/admin-notice.php:12
+#, php-format
+msgid "Welcome to %s"
+msgstr ""
+
+#: inc/admin/admin-notice.php:15
+#, php-format
+msgid "Thank you for choosing %1$s! Explore beautiful templates and setup your site"
+msgstr ""
+
+#: inc/admin/admin-notice.php:19
+#, php-format
+msgid "Get started with %s"
+msgstr ""
+
+#: inc/admin/admin-notice.php:21
+msgid "Upgrade Smartlog Pro"
+msgstr ""
+
+#: inc/admin/theme-info.php:14
+msgid "About Theme"
+msgstr ""
+
+#: inc/admin/theme-info.php:14
+msgid "Smartlog Theme"
+msgstr ""
+
+#: inc/admin/theme-info.php:46
+msgid "Multipurpose WordPress Block Based Theme"
+msgstr ""
+
+#: inc/admin/theme-info.php:52 inc/admin/theme-info.php:234
+msgid "Documentation"
+msgstr ""
+
+#: inc/admin/theme-info.php:55
+msgid "Demo"
+msgstr ""
+
+#: inc/admin/theme-info.php:67
+msgid "Free Vs Pro"
+msgstr ""
+
+#: inc/admin/theme-info.php:73
+msgid "Features"
+msgstr ""
+
+#: inc/admin/theme-info.php:76
+msgid "Free"
+msgstr ""
+
+#: inc/admin/theme-info.php:79
+msgid "Pro"
+msgstr ""
+
+#: inc/admin/theme-info.php:86
+msgid "Easy Setup"
+msgstr ""
+
+#: inc/admin/theme-info.php:95
+msgid "Responsive"
+msgstr ""
+
+#: inc/admin/theme-info.php:105
+msgid "Advance Color Options"
+msgstr ""
+
+#: inc/admin/theme-info.php:114
+msgid "800+ Fonts"
+msgstr ""
+
+#: inc/admin/theme-info.php:123
+msgid "Slider Options "
+msgstr ""
+
+#: inc/admin/theme-info.php:132
+msgid "Customizer"
+msgstr ""
+
+#: inc/admin/theme-info.php:141
+msgid "Front/ Home page posts categories"
+msgstr ""
+
+#: inc/admin/theme-info.php:150
+msgid "Boxed Layout"
+msgstr ""
+
+#: inc/admin/theme-info.php:159
+msgid "Sidebar"
+msgstr ""
+
+#: inc/admin/theme-info.php:161
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/admin/theme-info.php:163
+msgid "Right/Left/ Fullwidth/ No Sidebar"
+msgstr ""
+
+#: inc/admin/theme-info.php:168
+msgid "Back to Top"
+msgstr ""
+
+#: inc/admin/theme-info.php:177
+msgid "Styles"
+msgstr ""
+
+#: inc/admin/theme-info.php:179
+msgid "5"
+msgstr ""
+
+#: inc/admin/theme-info.php:181 inc/admin/theme-info.php:190
+msgid "13"
+msgstr ""
+
+#: inc/admin/theme-info.php:186
+msgid "Templates"
+msgstr ""
+
+#: inc/admin/theme-info.php:188
+msgid "10"
+msgstr ""
+
+#: inc/admin/theme-info.php:196
+msgid "Template Parts"
+msgstr ""
+
+#: inc/admin/theme-info.php:198
+msgid "14"
+msgstr ""
+
+#: inc/admin/theme-info.php:200
+msgid "18"
+msgstr ""
+
+#: inc/admin/theme-info.php:209
+msgid "Love our product?"
+msgstr ""
+
+#: inc/admin/theme-info.php:212
+msgid "Motivate 5 Star rating"
+msgstr ""
+
+#: inc/admin/theme-info.php:215
+msgid "Rate Us"
+msgstr ""
+
+#: inc/admin/theme-info.php:220
+msgid "Still have any question?"
+msgstr ""
+
+#: inc/admin/theme-info.php:223
+msgid "Don't hesitate to ask"
+msgstr ""
+
+#: inc/admin/theme-info.php:226
+msgid "Get Support"
+msgstr ""
+
+#: inc/block-patterns.php:18
+msgid "Smartlog"
+msgstr ""
+
+#: inc/block-patterns.php:19
+msgid "Pages"
+msgstr ""
+
+#: patterns/about.php:12
+msgid "Why Us?"
+msgstr ""
+
+#: patterns/about.php:16
+msgid "About Smartlog"
+msgstr ""
+
+#: patterns/about.php:20 patterns/about.php:24 patterns/about.php:28
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras est lacus, convallis a dignissim vel, sollicitudin id dui. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas."
+msgstr ""
+
+#: patterns/about.php:33
+msgid "Learn Details"
+msgstr ""
+
+#: patterns/about.php:37 patterns/footer-four-column.php:35
+msgid "Contact Us"
+msgstr ""
+
+#: patterns/call-to-action-1.php:13
+msgid "Design for everyone"
+msgstr ""
+
+#: patterns/call-to-action-1.php:17
+msgid "We dream about future !"
+msgstr ""
+
+#: patterns/call-to-action-1.php:25
+msgid "Learn more about Theme Development"
+msgstr ""
+
+#: patterns/call-to-action-1.php:30
+msgid "Enroll Today"
+msgstr ""
+
+#: patterns/counter.php:12
+msgid "Upgrade your Business"
+msgstr ""
+
+#: patterns/counter.php:16
+msgid "Our Facts !!!."
+msgstr ""
+
+#: patterns/counter.php:30
+msgid "5000"
+msgstr ""
+
+#: patterns/counter.php:34
+msgid "Happy Client"
+msgstr ""
+
+#: patterns/counter.php:44
+msgid "799"
+msgstr ""
+
+#: patterns/counter.php:48
+msgid "Review"
+msgstr ""
+
+#: patterns/counter.php:58
+msgid "65000"
+msgstr ""
+
+#: patterns/counter.php:62
+msgid "Downloads"
+msgstr ""
+
+#: patterns/counter.php:72
+msgid "2500"
+msgstr ""
+
+#: patterns/counter.php:76
+msgid "Followers"
+msgstr ""
+
+#: patterns/counter.php:86
+msgid "600"
+msgstr ""
+
+#: patterns/counter.php:90
+msgid "Customization"
+msgstr ""
+
+#: patterns/counter.php:100
+msgid "3000"
+msgstr ""
+
+#: patterns/counter.php:104
+msgid "New Projects"
+msgstr ""
+
+#: patterns/error-404.php:10
+msgid "404 !!!"
+msgstr ""
+
+#: patterns/error-404.php:14
+msgid "NOTHING FOUND"
+msgstr ""
+
+#: patterns/error-404.php:18
+msgid "Apologies, but the page you requested could not be found. Perhaps searching will help."
+msgstr ""
+
+#: patterns/footer-default.php:12
+msgid "Copyright © 2023 All rights reserved."
+msgstr ""
+
+#: patterns/footer-default.php:12
+msgid "Smartlog  by"
+msgstr ""
+
+#: patterns/footer-default.php:12
+msgid "Theme Canary"
+msgstr ""
+
+#: patterns/footer-four-column.php:12
+msgid "About Us"
+msgstr ""
+
+#: patterns/footer-four-column.php:20
+msgid "Your content, your design, and your data always belong to you. With WordPress you’re free to tell your story, grow your brand, or simply be yourself."
+msgstr ""
+
+#: patterns/footer-four-column.php:26
+msgid "Quick Link"
+msgstr ""
+
+#: patterns/footer-four-column.php:39
+msgid "Privacy Policy"
+msgstr ""
+
+#: patterns/footer-four-column.php:43
+msgid "Terms &amp; Conditions"
+msgstr ""
+
+#: patterns/footer-four-column.php:47
+msgid "F.A.Q"
+msgstr ""
+
+#: patterns/footer-four-column.php:54
+msgid "Showcase"
+msgstr ""
+
+#: patterns/footer-four-column.php:63
+msgid "Themes"
+msgstr ""
+
+#: patterns/footer-four-column.php:67
+msgid "Plugins"
+msgstr ""
+
+#: patterns/footer-four-column.php:71
+msgid "Patterns"
+msgstr ""
+
+#: patterns/footer-four-column.php:75
+msgid "Hosting"
+msgstr ""
+
+#: patterns/footer-four-column.php:79
+msgid "Photo Gallery"
+msgstr ""
+
+#: patterns/footer-four-column.php:86
+msgid "Connect Us"
+msgstr ""
+
+#: patterns/header-banner-image.php:13
+msgid "Build Professional Websites"
+msgstr ""
+
+#: patterns/header-banner-image.php:17
+msgid "Dream about future"
+msgstr ""
+
+#: patterns/header-banner-image.php:21
+msgid "Suitable for every Site"
+msgstr ""
+
+#: patterns/header-banner-image.php:25
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed"
+msgstr ""
+
+#: patterns/header-banner-image.php:29
+msgid "do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+msgstr ""
+
+#: patterns/header-banner-image.php:34 patterns/header-navigation.php:27
+msgid "Get Started"
+msgstr ""
+
+#: patterns/header-banner-image.php:38
+msgid "Buy Now"
+msgstr ""
+
+#: patterns/header-navigation.php:17
+msgid "Elegant Corporate Theme"
+msgstr ""
+
+#: patterns/header-top-bar.php:37
+msgid " +123 456 789"
+msgstr ""
+
+#: patterns/header-top-bar.php:47
+msgid "mailto:support@example.com"
+msgstr ""
+
+#: patterns/header-top-bar.php:47
+msgid "support@example.com"
+msgstr ""
+
+#: patterns/header-top-bar.php:57
+msgid "Your Location"
+msgstr ""
+
+#: patterns/hidden-no-results-content.php:9
+msgid "No results found"
+msgstr ""
+
+#: patterns/hidden-no-results-content.php:13
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: patterns/introduction.php:11
+msgid "Smartlog Block Theme"
+msgstr ""
+
+#: patterns/introduction.php:15
+msgid "Learn more about Block Theme"
+msgstr ""
+
+#: patterns/introduction.php:29
+msgid "SEO Friendly"
+msgstr ""
+
+#: patterns/introduction.php:33 patterns/introduction.php:51
+#: patterns/introduction.php:69
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+msgstr ""
+
+#: patterns/introduction.php:37 patterns/introduction.php:55
+#: patterns/introduction.php:73 patterns/services.php:43
+#: patterns/services.php:69 patterns/services.php:95 patterns/services.php:124
+#: patterns/services.php:150 patterns/services.php:176
+msgid "More Details"
+msgstr ""
+
+#: patterns/introduction.php:47
+msgid "Cloud"
+msgstr ""
+
+#: patterns/introduction.php:65
+msgid "Grow Business"
+msgstr ""
+
+#: patterns/news.php:11
+msgid "Own what you make&nbsp;"
+msgstr ""
+
+#: patterns/news.php:15
+msgid "Showcase your Content"
+msgstr ""
+
+#: patterns/pricing.php:10
+msgid "We deal with best"
+msgstr ""
+
+#: patterns/pricing.php:14
+msgid "Plans &amp; Pricing"
+msgstr ""
+
+#: patterns/pricing.php:25
+msgid "Silver"
+msgstr ""
+
+#: patterns/pricing.php:33
+msgid "Grow your medium business."
+msgstr ""
+
+#: patterns/pricing.php:38 patterns/pricing.php:82 patterns/pricing.php:126
+msgid "On-time delivery"
+msgstr ""
+
+#: patterns/pricing.php:42 patterns/pricing.php:86 patterns/pricing.php:130
+#, no-php-format
+msgid "100% satisfaction guaranteed"
+msgstr ""
+
+#: patterns/pricing.php:46 patterns/pricing.php:90 patterns/pricing.php:134
+msgid "Ultimate revisions"
+msgstr ""
+
+#: patterns/pricing.php:50 patterns/pricing.php:94 patterns/pricing.php:138
+msgid "3-year support"
+msgstr ""
+
+#: patterns/pricing.php:55 patterns/pricing.php:99 patterns/pricing.php:143
+msgid "$"
+msgstr ""
+
+#: patterns/pricing.php:55
+msgid "39"
+msgstr ""
+
+#: patterns/pricing.php:55 patterns/pricing.php:99 patterns/pricing.php:143
+msgid "/Year"
+msgstr ""
+
+#: patterns/pricing.php:60 patterns/pricing.php:104 patterns/pricing.php:148
+msgid "Purchase Plan"
+msgstr ""
+
+#: patterns/pricing.php:69
+msgid "Gold"
+msgstr ""
+
+#: patterns/pricing.php:77
+msgid "Grow Professional business."
+msgstr ""
+
+#: patterns/pricing.php:99
+msgid "69"
+msgstr ""
+
+#: patterns/pricing.php:113
+msgid "Bronze"
+msgstr ""
+
+#: patterns/pricing.php:121
+msgid "Grow your small business."
+msgstr ""
+
+#: patterns/pricing.php:143
+msgid "29"
+msgstr ""
+
+#: patterns/services.php:11
+msgid "What we Offer?"
+msgstr ""
+
+#: patterns/services.php:15
+msgid "Our Services"
+msgstr ""
+
+#: patterns/services.php:34
+msgid "Creativity"
+msgstr ""
+
+#: patterns/services.php:38 patterns/services.php:64 patterns/services.php:90
+#: patterns/services.php:119 patterns/services.php:145
+#: patterns/services.php:171
+msgid "Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua."
+msgstr ""
+
+#: patterns/services.php:60
+msgid "Trading"
+msgstr ""
+
+#: patterns/services.php:86
+msgid "Big Money"
+msgstr ""
+
+#: patterns/services.php:115
+msgid "Icloud"
+msgstr ""
+
+#: patterns/services.php:141
+msgid "Seo"
+msgstr ""
+
+#: patterns/services.php:167
+msgid "Web Development"
+msgstr ""
+
+#: patterns/sidebar.php:13
+msgid "About"
+msgstr ""
+
+#: patterns/sidebar.php:21
+msgid ""
+"Lorem ipsum dolor sit amet, consec tetur adipiscing elit. Maecenas odio lacus, dignissim sollicitudin finibus\n"
+"            commodo, rhoncus et ante."
+msgstr ""
+
+#: patterns/sidebar.php:29
+msgid "Categories"
+msgstr ""
+
+#: patterns/sidebar.php:37
+msgid "Recent Post"
+msgstr ""
+
+#: patterns/sidebar.php:45
+msgid "Tags"
+msgstr ""
